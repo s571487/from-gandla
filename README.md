@@ -12,3 +12,8 @@ Pista house is one of the few restaurants where you can get **authentic biryani*
 * Pani Puri
 * Garlic Bread
 
+# Places to visit near the restaurant
+* Charminar
+* Birla Temple
+* Tank bund
+
