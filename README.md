@@ -17,3 +17,4 @@ Pista house is one of the few restaurants where you can get **authentic biryani*
 * Birla Temple
 * Tank bund
 
+[MyMedia](MyMedia.md)
