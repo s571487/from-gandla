@@ -18,3 +18,18 @@ Pista house is one of the few restaurants where you can get **authentic biryani*
 * Tank bund
 
 [MyMedia](MyMedia.md)
+
+---
+
+## Songs Recommendations
+
+I'd like to share some recommendations for songs that have left a lasting impression. Each recommendation comes with a brief explanation of why I think it's worth exploring.
+
+| Name| Reason for Recommendation | Artist |
+|-----------------------|-----------------------------------------------------------|----------------------|
+| "Hoyna Hoyna"| A beautiful and pleasent song where the actor sings for actress.| Anirudh|
+| "Chaleya"| A romantic song between SRK and Nayanthara| Arijit Singh|
+| "Heeriye Slowed + Reverb"| Slow soothing song | Arijit Singh|
+| "Gaali Valuga" | A beautiful song | Anirudh |
+
+---
