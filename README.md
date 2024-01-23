@@ -33,3 +33,16 @@ I'd like to share some recommendations for songs that have left a lasting impres
 | "Gaali Valuga" | A beautiful song | Anirudh |
 
 ---
+
+---
+
+## Favorite Quotes
+
+
+> "Don’t let the noise of others’ opinions drown out your own inner voice."  
+> *Steve Jobs*
+
+> "Stay hungry. Stay foolish."  
+> *Steve Jobs*
+
+---
