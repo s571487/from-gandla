@@ -34,7 +34,6 @@ I'd like to share some recommendations for songs that have left a lasting impres
 
 ---
 
----
 
 ## Favorite Quotes
 
@@ -46,3 +45,15 @@ I'd like to share some recommendations for songs that have left a lasting impres
 > *Steve Jobs*
 
 ---
+
+## Code Snippet
+
+This simple Node.js code is used to get the home directory of the current user.
+
+Code Snippet:
+```
+const os = require('os');
+const value =  os.homedir();
+console.log("os.homedir() => " + value); 
+```
+Source of the Snippet: <https://code.pieces.app/collections/node-js>
